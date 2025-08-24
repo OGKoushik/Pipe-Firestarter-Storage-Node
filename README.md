@@ -121,7 +121,7 @@ nano ~/.pipe-cli.json
 #### Enter the Refer Code:
 
 ```
-pipe referral apply MAYANKGG-D4CJ
+pipe referral apply KOUSHIK1-20JF
 ```
 
 #### Get Your referral code:
